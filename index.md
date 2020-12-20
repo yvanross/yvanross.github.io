@@ -1,10 +1,20 @@
 # Yvan Ross profile
 
+## École de technologie supérieur (ÉTS)
+### Lecturer
+
+- [LOG121](https://www.etsmtl.ca/etudes/cours/log121) - Conception orientée objet
+- [LOG210](https://www.etsmtl.ca/etudes/cours/log210/) - Analyse et conception de logiciels
+- [LOG430](https://www.etsmtl.ca/etudes/cours/log430/) - Architecture logicielle
+- [MGL802](https://www.etsmtl.ca/etudes/cours/MGL802) - Principes et applications de la conception de logiciels
+- [MGL844](https://www.etsmtl.ca/etudes/cours/MGL844) - Architecture logicielle
+
+
 # **Open source projet: G**enealogy **O**f **M**y **P**hotos
 
 This project consist in building multiplatform applications to archive and share photos at cheapest cost possible.
 
-It is based on a peer-to-peer archiving architecture. The main goal is to keep at least one copy of your photos and video on a remote location at cheapest cost possible.   
+It is based on a peer-to-peer architecture. The main goal is to keep at least one copy of your photos and video on a remote location at cheapest cost possible.   
 
 You and your friends will have a one time investisment to do in a external disk to put a copy of your media as well a a copy of your friend data.
 
@@ -24,35 +34,33 @@ Visit github repository to see the status of the project: https://github.com/yva
 - Implementation of the solution
  
 Our designs are prototyped using the Axure application and our layouts are done exclusively with the Ruby on Rails platform. Ruby on Rails is a very structured web application development environment.
+
 ## Industrial computing
 - Industrial computing mainly concerns software that interacts with electronic hardware. Whether with a computer, a microcontroller or a DSP, we may be able to help you. 
 
 - Your development platforms are: C ++, Matlab with Simulink and Real time workshop or Code composer studio. So don't hesitate to contact us. 
+
 ## Scientific computing
 - The solutions developed by the researchers are brilliant. They generally allow very complex problems to be solved. When they have found the right solution, we try to quickly put the prototype into production mode by deliberately neglecting the integration phase. 
 
 - This usually works for a few months and then the problems start. It then becomes very complex to add the operational functionalities required by customers. The solution becomes more and more unstable as we try to add new features. The architecture requires major changes and customers cannot afford to wait for the new solution. 
 
 - Over the past few years, we have developed very good expertise in taking these prototypes, redoing the software architecture and making them capable of evolving in a competitive environment. 
-
 	
 # Realized projects
 
 ## Electrical signal sensor
 Project management, R&D and development of signal processing software in an embedded environment on DSP
 
-| | |
-|--|--|
-|![](assets/projets/nuvolt_sensor.png)  |![](assets/projets/nuvolt_panel.png)|
+
+|![](assets/projets/nuvolt_sensor.png)![](assets/projets/nuvolt_panel.png)|
 
  Technologies:
   - DSP Texas instrument
   - Matlab/Simulink/Realtime workshop, C++ 
 
 ## Pressureless roller conveyor with magnetic clutch
-| | |
-|-|-|
-|![](assets/projets/rouleaux.png)|![](assets/projets/convoyeur.jpg)|
+![](assets/projets/rouleaux.png)![](assets/projets/convoyeur.jpg)
  
 - Technologies: 
   - Plastic molding
@@ -120,6 +128,7 @@ Sofwtare and calibration ruler in dimension and grain size for automated microsc
 # Contact me
 ![Yvan Ross](assets/contacts/yvan.jpg){:height="50%" width="50%"}
 Yvan Ross, Ing., M.Ing<br/>
+Richelieu, Qc, Canada
 yvan.ross@gmail.com<br/>
 514-797-8894<br/>
 http://ca.linkedin.com/in/yvanross/<br/>
