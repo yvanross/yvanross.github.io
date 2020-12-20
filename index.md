@@ -126,7 +126,13 @@ Sofwtare and calibration ruler in dimension and grain size for automated microsc
 - Simulink
 
 # Contact me
-![Yvan Ross](assets/contacts/yvan.jpg){:height="50%" width="50%"}
+![Yvan Ross](assets/contacts/yvan.jpg | width=50)
+2
+![Yvan Ross](assets/contacts/yvan.jpg =100x100)
+3
+<img src="assets/contacts/yvan.jpg" width="100" height="100" />
+
+
 Yvan Ross, Ing., M.Ing<br/>
 Richelieu, Qc, Canada
 yvan.ross@gmail.com<br/>
